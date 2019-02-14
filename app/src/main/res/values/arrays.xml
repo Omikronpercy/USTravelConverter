@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="zollsatz">
+        <item>@string/arrOne</item>
+        <item>@string/arrTwo</item>
+        <item>@string/arrThree</item>
+        <item>@string/arrFour</item>
+        <item>@string/arrFive</item>
+
+    </string-array>
+    <string-array name="currency">
+        <item>@string/arrEuro</item>
+        <item>@string/arrDollar</item>
+    </string-array>
+</resources>

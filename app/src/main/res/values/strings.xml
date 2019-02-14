@@ -1,0 +1,87 @@
+<resources>
+    <string name="pfeil" translatable="false">&amp;#11298</string>
+
+
+    <string name="app_name">US Travel Converter</string>
+    <string name="action_settings">Beenden</string>
+    <string name="action_info">Info</string>
+    <string name="action_settings2">Einstellungen</string>
+
+
+    <string name="us_import" translatable="false">US -> EU Import</string>
+    <string name="zollsign" translatable="false">%</string>
+    <string name="euro">Euro</string>
+    <string name="gesamtbetrag">Gesamtbetrag</string>
+    <string name="rechnung">Rechnung</string>
+    <string name="usdollar" translatable="false">US $</string>
+    <string name="versand">Versand</string>
+    <string name="zollbetrag">Zollbetrag</string>
+    <string name="us_gal" translatable="false">US gal</string>
+    <string name="f" translatable="false">F</string>
+    <string name="nm" translatable="false">Nm</string>
+    <string name="bar" translatable="false">bar</string>
+    <string name="cm" translatable="false">cm</string>
+    <string name="inch" translatable="false">inch</string>
+    <string name="km" translatable="false">km</string>
+    <string name="kmh" translatable="false">km/h</string>
+    <string name="l_100km" translatable="false">l/100km</string>
+    <string name="lb_ft" translatable="false">lb ft</string>
+    <string name="liter" translatable="false">liter </string>
+    <string name="meilen">meilen</string>
+    <string name="mpg" translatable="false">mpg</string>
+    <string name="mph" translatable="false">mph</string>
+    <string name="psi" translatable="false">psi</string>
+    <string name="c" translatable="false">°C</string>
+    <string name="zollsatz2">Zollsatz %</string>
+
+    <string name="lb" translatable="false">lb</string>
+    <string name="kg" translatable="false">kg</string>
+
+
+    <string name="user1">Unit1</string>
+    <string name="user2">Unit2</string>
+    <string name="feet" translatable="false">feet</string>
+    <string name="meter" translatable="false">meter</string>
+    <string name="einheit_1">Einheit 1</string>
+    <string name="einheit_2">Einheit 2</string>
+    <string name="name" translatable="false">Name</string>
+    <string name="name2" translatable="false">Name2</string>
+    <string name="umfaktor1">Umrechnungsfaktor Einheit 1</string>
+    <string name="eurolit" translatable="false">€/l</string>
+    <string name="dolgal" translatable="false">$/gal</string>
+    <string name="gleichung">Einheit 1 * Faktor = Einheit 2</string>
+    <string name="einstellung">Einstellungen</string>
+    <string name="easy_ansicht">Kartenansicht</string>
+    <string name="internet">Internet Zugriff</string>
+    <string name="zugriff">Nur einmal pro Tag wird der Dollarkurs eingelesen</string>
+    <string name="info_1">Rechnet die gängisten US Einheiten nach SI Einheiten um. Richtigkeit ohne Gewähr.</string>
+    <string name="Autor">Autor: DOCB</string>
+    <string name="Info_2">Der US Dollarkurs der EZB wird nur einmal pro Tag eingelesen, um Datenvolumen zu minimieren.</string>
+    <string name="Info_3">EU Importabgaben werden nach <a href="http://www.zolltarifnummern.de/zollgebuehren.php">www.zolltarifnummern.de/zollgebuehren.php</a> berechnet. 10% Autos, 4.5% für
+        Großteile wie Motor, Getriebe, 3.x% Kleinteile. Einfuhrumsatzsteuer (EUSt) beträgt in Deutschland 19%.
+        \nBilder von unsplash.com, pixabay.com: \n Vitaly, Evan Dennis, Jeff Cooper, Jeff Sheldon, Jon Flobrant, Philip Swinburn, Jonathan Petersson
+        Patrick Tomasso, Yaoqi Lai, Bhavyesh Acharya, Maria Molinero
+    </string>
+    <string name="email_uscartools_yahoo_com" translatable="false">Email: USCarTools@yahoo.com</string>
+    <string name="ok" translatable="false">OK</string>
+    <string name="user_card" translatable="false">User Card</string>
+    <string name="save_and_close">Speichern</string>
+    <string name="arrOne" translatable="false">10</string>
+    <string name="arrTwo" translatable="false">4.5</string>
+    <string name="arrThree" translatable="false">3.5</string>
+    <string name="arrFour" translatable="false">3</string>
+    <string name="arrFive" translatable="false">0</string>
+    <string name="arrEuro" translatable="false">€</string>
+    <string name="arrDollar" translatable="false">$</string>
+    <string name="eust">EUSt</string>
+    <string name="summe_abgaben">Summe Abgaben</string>
+    <string name="summe">Summe</string>
+    <string name="steuer">Steuer</string>
+    <string name="einfuhrumsatzsteuer">Einfuhrumsatzsteuer %</string>
+    <string name="privacy">Diese Applikation erhebt keine persönlichen oder gerätespezifischen Daten. Nur das Datum des zuletzt eingelesenen
+        Datensatzes der Europäischen Zentralbank (EZB <a href="http://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html">www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html</a>) wird auf dem Gerät selber gespeichert sowie der US Dollarkurs.
+    Der tägliche Internet Zugriff kann in den Einstellungen abgestellt werden. Es ist davon auszugehen, das die EZB die Verkehrsdaten des Internetzugriffes speichert und verarbeitet.</string>
+    <string name="privacy_head">Datenschutzerklärung</string>
+
+
+</resources>

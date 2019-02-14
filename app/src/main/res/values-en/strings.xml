@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">US Unit Converter</string>
+    <string name="gesamtbetrag">total amount</string>
+    <string name="rechnung">Invoice</string>
+    <string name="umfaktor1">factor unit #1</string>
+    <string name="versand">Shipping</string>
+    <string name="zollsatz2">Duty %</string>
+    <string name="einheit_1">Unit #1</string>
+    <string name="einheit_2">Unit #2</string>
+    <string name="meilen">miles</string>
+    <string name="gleichung">"unit #1 * factor = unit #2  "</string>
+
+    <string name="user1">Unit1</string>
+    <string name="user2">Unit2</string>
+    <string name="easy_ansicht">Card view</string>
+    <string name="einstellung">Settings</string>
+    <string name="euro">euro</string>
+    <string name="internet">internet access</string>
+    <string name="zugriff">The US dollar exchance rate will be transferrd only once a day</string>
+    <string name="Info_2">The US dollar exchange rate is read only once a day to minimze data.</string>
+    <string name="Info_3">EU customs duty are calculated according <a href="http://www.zolltarifnummern.de/zollgebuehren.php">www.zolltarifnummern.de/zollgebuehren.php</a>. 10%% cars, 4.5%% for big parts,
+        3.x%% small parts. Import tax is 19% in Germany.
+        Images from unsplash.com, pixabay.com: \n Vitaly, Evan Dennis, Jeff Cooper, Jeff Sheldon, Jon Flobrant, Philip Swinburn, Jonathan Petersson
+        Patrick Tomasso, Yaoqi Lai, Bhavyesh Acharya, Maria Molinero</string>
+    <string name="Autor">Author: DOCB</string>
+    <string name="info_1">Calculates US units to SI units. No warrenty.</string>
+    <string name="action_info">About</string>
+    <string name="action_settings">Exit</string>
+    <string name="action_settings2">User settings</string>
+    <string name="save_and_close">Save</string>
+    <string name="summe_abgaben">Sum</string>
+    <string name="steuer">Tax</string>
+    <string name="einfuhrumsatzsteuer">Import tax %</string>
+    <string name="eust">tax</string>
+    <string name="privacy_head">Privacy Policy</string>
+    <string name="privacy">No personally identifiable information is stored on your device or sent back regarding your use of
+        the application.  Only the last access time to the currency data set of the European Central Bank (ECB <a href="https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html">www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html</a>) is stored
+        on the device, you can switch off daily internet access in application settings. Its highly probable that the ECB is using the internet traffic data for their own purposes.</string>
+    <string name="summe">Total</string>
+    <string name="zollbetrag">Import charges</string>
+</resources>
