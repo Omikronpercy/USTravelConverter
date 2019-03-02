@@ -19,11 +19,11 @@ import android.view.MenuItem;
 //TODO Backup wie?
 //ToDo FEATURE REQ  auf recycler view umbauen
 //ToDo keyboard view
-//Done splash screen
-//ToDo VersionControl
+
+
 //ToDo rechnen in eingabe
 //ToDo nachkommastellen für custom
-//Done schöneres splash bitmap
+
 //ToDo Activity action view
 //ToDO what if internet but no ecb?
 //ToDo save and read in Importtools sowie usd und datum schreiben
