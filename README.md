@@ -40,7 +40,7 @@ This project is licensed under the GPL 3.0 License - see the file for details
 
 ## Aknowledgements
 
-Many thanks to the photographers from [unsplash.com](www.unsplash.com) and [pixabay.com](www.pixabay.com): 
+Many thanks to the photographers from [unsplash.com](https://www.unsplash.com) and [pixabay.com](https://www.pixabay.com): 
 Vitaly, Evan Dennis, Jeff Cooper, Jeff Sheldon, Jon Flobrant, Philip Swinburn, Jonathan Petersson,
 Patrick Tomasso, Yaoqi Lai, Bhavyesh Acharya, Maria Molinero
 
