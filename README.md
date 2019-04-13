@@ -1,4 +1,4 @@
-# USTravelConverter
+# US Travel Converter
 
 The most common US units are transformed to IS units. If you want to buy some gifts, you can calculate the EU import charges on second page.
 
@@ -14,7 +14,7 @@ Hint: Try to touch the unit to change it.
 
 ### Prerequisites
 
-Android APK 15
+min Android API 15
 
 
 ### Installing
@@ -36,11 +36,11 @@ USTravelConverter.apk
 
 ## License
 
-This project is licensed under the GPL 3.0 License - see the [LICENSE](LICENSE) file for details
+This project is licensed under the GPL 3.0 License - see the file for details
 
 ## Aknowledgements
 
-Many thanks to the photographers from [unsplash.com](www.unsplash.com) and pixabay.com: 
+Many thanks to the photographers from [unsplash.com](www.unsplash.com) and [pixabay.com](www.pixabay.com): 
 Vitaly, Evan Dennis, Jeff Cooper, Jeff Sheldon, Jon Flobrant, Philip Swinburn, Jonathan Petersson,
 Patrick Tomasso, Yaoqi Lai, Bhavyesh Acharya, Maria Molinero
 
