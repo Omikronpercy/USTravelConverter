@@ -19,7 +19,7 @@ min Android API 15
 
 ### Installing
 
-Install apk file.
+Install [apk](https://github.com/Omikronpercy/USTravelConverter2/releases) file.
 
 
 ```
