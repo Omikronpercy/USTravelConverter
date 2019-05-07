@@ -5,7 +5,7 @@
     <string name="rechnung">Invoice</string>
     <string name="umfaktor1">factor unit #1</string>
     <string name="versand">Shipping</string>
-    <string name="zollsatz2">Duty %</string>
+    <string name="zollsatz2">Tariff %</string>
     <string name="einheit_1">Unit #1</string>
     <string name="einheit_2">Unit #2</string>
     <string name="meilen">miles</string>
@@ -19,7 +19,7 @@
     <string name="internet">internet access</string>
     <string name="zugriff">The US dollar exchance rate will be transferrd only once a day</string>
     <string name="Info_2">The US dollar exchange rate is read only once a day to minimze data.</string>
-    <string name="Info_3">EU customs duty are calculated according <a href="http://www.zolltarifnummern.de/zollgebuehren.php">www.zolltarifnummern.de/zollgebuehren.php</a>. 10%% cars, 4.5%% for big parts,
+    <string name="Info_3">EU tariffs are calculated according <a href="http://www.zolltarifnummern.de/zollgebuehren.php">www.zolltarifnummern.de/zollgebuehren.php</a>. 10%% cars, 4.5%% for big parts,
         3.x%% small parts. Import tax is 19% in Germany.
         Images from unsplash.com, pixabay.com: \n Vitaly, Evan Dennis, Jeff Cooper, Jeff Sheldon, Jon Flobrant, Philip Swinburn, Jonathan Petersson
         Patrick Tomasso, Yaoqi Lai, Bhavyesh Acharya, Maria Molinero</string>
