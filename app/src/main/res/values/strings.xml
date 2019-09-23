@@ -1,3 +1,26 @@
+<!--
+  ~ /*     GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
+  ~
+  ~         This program converts some imperial units to SI units for travel in the USA
+  ~         Copyright (C) <2019>  <Github: Omikronpercy>
+  ~
+  ~         This program is free software: you can redistribute it and/or modify
+  ~         it under the terms of the GNU General Public License as published by
+  ~         the Free Software Foundation, either version 3 of the License, or
+  ~         (at your option) any later version.
+  ~
+  ~         This program is distributed in the hope that it will be useful,
+  ~         but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~         MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~         GNU General Public License for more details.
+  ~
+  ~         You should have received a copy of the GNU General Public License
+  ~         along with this program.  If not, see <https://www.gnu.org/licenses/>.
+  ~ */
+  ~
+  ~
+  -->
+
 <resources>
     <string name="pfeil" translatable="false">&amp;#11298</string>
 
@@ -55,7 +78,7 @@
     <string name="internet">Internet Zugriff</string>
     <string name="zugriff">Nur einmal pro Tag wird der Dollarkurs eingelesen</string>
     <string name="info_1">Rechnet die gängisten US Einheiten nach SI Einheiten um. Richtigkeit ohne Gewähr.</string>
-    <string name="Autor">Autor: DOCB</string>
+    <string name="Autor">Github: Omikronpercy </string>
     <string name="Info_2">Der US Dollarkurs der EZB wird nur einmal pro Tag eingelesen, um Datenvolumen zu minimieren.</string>
     <string name="Info_3">EU Importabgaben werden nach <a href="http://www.zolltarifnummern.de/zollgebuehren.php">www.zolltarifnummern.de/zollgebuehren.php</a> berechnet. 10% Autos, 4.5% für
         Großteile wie Motor, Getriebe, 3.x% Kleinteile. Einfuhrumsatzsteuer (EUSt) beträgt in Deutschland 19%.

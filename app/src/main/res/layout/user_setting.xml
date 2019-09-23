@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 
+<!--
+  ~ /*     GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
+  ~
+  ~         This program converts some imperial units to SI units for travel in the USA
+  ~         Copyright (C) <2019>  <Github: Omikronpercy>
+  ~
+  ~         This program is free software: you can redistribute it and/or modify
+  ~         it under the terms of the GNU General Public License as published by
+  ~         the Free Software Foundation, either version 3 of the License, or
+  ~         (at your option) any later version.
+  ~
+  ~         This program is distributed in the hope that it will be useful,
+  ~         but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~         MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~         GNU General Public License for more details.
+  ~
+  ~         You should have received a copy of the GNU General Public License
+  ~         along with this program.  If not, see <https://www.gnu.org/licenses/>.
+  ~ */
+  ~
+  ~
+  -->
+
 <android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -109,6 +132,24 @@
         android:digits="0123456789.-"
         android:ems="10"
         android:inputType="numberDecimal"
+        android:importantForAutofill="no" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:layout_marginTop="10dp"
+        android:text="Zollsätze %"
+        android:textSize="18sp" />
+
+    <EditText
+        android:id="@+id/editTextZo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:text="0/4.5/3.5/10/15"
+        android:ems="10"
+        android:inputType="text"
         android:importantForAutofill="no" />
 
     <TextView
