@@ -1,4 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ /*     GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
+  ~
+  ~         This program converts some imperial units to SI units for travel in the USA
+  ~         Copyright (C) <2019>  <Github: Omikronpercy>
+  ~
+  ~         This program is free software: you can redistribute it and/or modify
+  ~         it under the terms of the GNU General Public License as published by
+  ~         the Free Software Foundation, either version 3 of the License, or
+  ~         (at your option) any later version.
+  ~
+  ~         This program is distributed in the hope that it will be useful,
+  ~         but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~         MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~         GNU General Public License for more details.
+  ~
+  ~         You should have received a copy of the GNU General Public License
+  ~         along with this program.  If not, see <https://www.gnu.org/licenses/>.
+  ~ */
+  ~
+  ~
+  -->
+
 <resources>
     <string name="app_name">US Unit Converter</string>
     <string name="gesamtbetrag">total amount</string>
@@ -32,7 +55,7 @@
     <string name="summe_abgaben">Sum</string>
     <string name="steuer">Tax</string>
     <string name="einfuhrumsatzsteuer">Import tax %</string>
-    <string name="eust">tax</string>
+    <string name="eust">import tax</string>
     <string name="privacy_head">Privacy Policy</string>
     <string name="privacy">No personally identifiable information is stored on your device or sent back regarding your use of
         the application.  Only the last access time to the currency data set of the European Central Bank (ECB <a href="https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html">www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html</a>) is stored
