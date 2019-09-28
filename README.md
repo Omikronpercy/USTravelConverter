@@ -1,6 +1,6 @@
 # US Travel Converter
 
-The most common US units are transformed to SI units. If you want to buy some gifts, you can calculate the EU import charges on second page.
+The most common US units are transformed to SI units and some less common like gas price from $/gal to €/l. If you want to buy some gifts, you can calculate the EU import charges on second page.
 
 If you need to convert a special unit, you can define your own.
 Hint: Try to touch the unit to change it.
