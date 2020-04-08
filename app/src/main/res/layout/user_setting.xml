@@ -23,7 +23,7 @@
   ~
   -->
 
-<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:layout_marginLeft="15dp"
@@ -161,7 +161,7 @@
         android:textSize="14sp"
         android:textStyle="bold" />
 
-    <android.support.v7.widget.SwitchCompat
+    <androidx.appcompat.widget.SwitchCompat
         android:id="@+id/switch1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -175,7 +175,7 @@
         android:textSize="18sp"
         android:visibility="gone" />
 
-    <android.support.v7.widget.SwitchCompat
+    <androidx.appcompat.widget.SwitchCompat
         android:id="@+id/switch2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -206,4 +206,4 @@
         android:layout_marginTop="10dp"
         android:text="@string/save_and_close" />
 </LinearLayout>
-    </android.support.v4.widget.NestedScrollView>
+    </androidx.core.widget.NestedScrollView>

@@ -29,11 +29,11 @@ package uscartools.USTravelConverter;
 import android.content.SharedPreferences;
 //import android.os.Handler;
 import android.graphics.Color;
-import android.os.Handler;
+//import android.os.Handler;
 import android.preference.PreferenceManager;
 
-import android.support.annotation.NonNull;
-import android.support.v4.app.Fragment;
+import androidx.annotation.NonNull;
+import androidx.fragment.app.Fragment;
 import android.os.Bundle;
 
 //import android.support.v4.widget.NestedScrollView;
@@ -59,7 +59,7 @@ public class tab1_conv_card extends Fragment {
     private double fluid_factor = 3.7854;
     private boolean feet_inch = false;
     private double car_factor = 0.0689; //16.387064;
-    private Handler uiHandler;  //um UI aus thread zu ändern
+    // --Commented out by Inspection (26.03.2020 22:12):private Handler uiHandler;  //um UI aus thread zu ändern
 
 
 
