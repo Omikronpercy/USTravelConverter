@@ -1,0 +1,3 @@
+Converts useful imperial units to SI. Lots of tourists have problems with imperial units used in the USA, e.g. 6 foot 2 inch as body length.  
+Its optimized for fast access to this units. 
+Possible import tariffs can be calculated for EU import via mail or above the free of charge limit.
