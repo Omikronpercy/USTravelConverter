@@ -1,2 +1,2 @@
 This program converts some imperial units to SI units for travel in the USA.
-Possible import tariffs can be calculated for EU import via mail or above the free of charge limit.
+
