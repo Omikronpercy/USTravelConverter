@@ -139,7 +139,7 @@
         android:layout_height="wrap_content"
 
         android:layout_marginTop="10dp"
-        android:text="Zollsätze %"
+        android:text="@string/zollsatz2"
         android:textSize="18sp" />
 
     <EditText
