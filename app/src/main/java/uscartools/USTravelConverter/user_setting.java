@@ -49,11 +49,11 @@ public class user_setting extends Activity {
 
         //View View = inflater.inflate(R.layout.user_setting, container, false);
 
-        final EditText Usertext1= findViewById(R.id.editTextE1);
-        final EditText Usertext2= findViewById(R.id.editTextE2);
-        final EditText editfaktor1= findViewById(R.id.editFaktor1);
-        final EditText Steuersatz=findViewById(R.id.editTextSt);
-        final Button ButtonOK= findViewById(R.id.button3);
+        final EditText Usertext1 = findViewById(R.id.editTextE1);
+        final EditText Usertext2 = findViewById(R.id.editTextE2);
+        final EditText editfaktor1 = findViewById(R.id.editFaktor1);
+        final EditText Steuersatz = findViewById(R.id.editTextSt);
+        final Button ButtonOK = findViewById(R.id.button3);
 
         final SwitchCompat switchTabs= findViewById(R.id.switch1);
         final SwitchCompat switchInternet= findViewById(R.id.switch2);
