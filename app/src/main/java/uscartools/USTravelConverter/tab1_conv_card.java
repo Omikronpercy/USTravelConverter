@@ -30,7 +30,7 @@ import android.content.SharedPreferences;
 //import android.os.Handler;
 import android.graphics.Color;
 //import android.os.Handler;
-import android.preference.PreferenceManager;
+import androidx.preference.PreferenceManager;
 
 import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
