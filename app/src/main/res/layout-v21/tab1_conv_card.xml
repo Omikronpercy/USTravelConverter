@@ -22,7 +22,7 @@
   ~
   -->
 
-<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:id="@+id/SCView"
     android:layout_width="match_parent"
@@ -36,7 +36,7 @@
         android:layout_height="match_parent"
         android:orientation="vertical">
 
-        <android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        <androidx.cardview.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
             style="@style/MyCardViewStyle"
             card_view:cardBackgroundColor="#fff0f0f0">
 
@@ -105,9 +105,9 @@
             </GridLayout>
 
 
-        </android.support.v7.widget.CardView>
+        </androidx.cardview.widget.CardView>
 
-        <android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        <androidx.cardview.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
             style="@style/MyCardViewStyle"
             card_view:cardBackgroundColor="#fff0f0f0">
 
@@ -170,9 +170,9 @@
                     android:layout_row="1" />
 
             </GridLayout>
-        </android.support.v7.widget.CardView>
+        </androidx.cardview.widget.CardView>
 
-        <android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        <androidx.cardview.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
             style="@style/MyCardViewStyle"
             card_view:cardBackgroundColor="#fff0f0f0">
 
@@ -232,9 +232,9 @@
                     />
 
             </GridLayout>
-        </android.support.v7.widget.CardView>
+        </androidx.cardview.widget.CardView>
 
-        <android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        <androidx.cardview.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
             style="@style/MyCardViewStyle"
             card_view:cardBackgroundColor="#fff0f0f0">
 
@@ -291,9 +291,9 @@
                     android:layout_row="1" />
 
             </GridLayout>
-        </android.support.v7.widget.CardView>
+        </androidx.cardview.widget.CardView>
 
-        <android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        <androidx.cardview.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
             style="@style/MyCardViewStyle"
             card_view:cardBackgroundColor="#fff0f0f0">
 
@@ -369,9 +369,9 @@
             </GridLayout>
 
 
-        </android.support.v7.widget.CardView>
+        </androidx.cardview.widget.CardView>
 
-        <android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        <androidx.cardview.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
             style="@style/MyCardViewStyle"
             card_view:cardBackgroundColor="#fff0f0f0">
 
@@ -431,9 +431,9 @@
                     android:layout_row="1" />
 
             </GridLayout>
-        </android.support.v7.widget.CardView>
+        </androidx.cardview.widget.CardView>
 
-        <android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        <androidx.cardview.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
             style="@style/MyCardViewStyle"
             card_view:cardBackgroundColor="#fff0f0f0">
 
@@ -492,9 +492,9 @@
                     android:layout_row="1" />
 
             </GridLayout>
-        </android.support.v7.widget.CardView>
+        </androidx.cardview.widget.CardView>
 
-        <android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        <androidx.cardview.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
             style="@style/MyCardViewStyle"
             card_view:cardBackgroundColor="#fff0f0f0">
 
@@ -551,9 +551,9 @@
                     android:layout_row="1" />
 
             </GridLayout>
-        </android.support.v7.widget.CardView>
+        </androidx.cardview.widget.CardView>
 
-        <android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        <androidx.cardview.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
             style="@style/MyCardViewStyle"
             card_view:cardBackgroundColor="#fff0f0f0">
 
@@ -610,9 +610,9 @@
                     android:layout_row="1" />
 
             </GridLayout>
-        </android.support.v7.widget.CardView>
+        </androidx.cardview.widget.CardView>
 
-        <android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        <androidx.cardview.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
             style="@style/MyCardViewStyle"
             card_view:cardBackgroundColor="#fff0f0f0">
 
@@ -671,9 +671,9 @@
                     android:layout_row="1" />
 
             </GridLayout>
-        </android.support.v7.widget.CardView>
+        </androidx.cardview.widget.CardView>
 
-        <android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        <androidx.cardview.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
             style="@style/MyCardViewStyle"
             card_view:cardBackgroundColor="#fff0f0f0">
 
@@ -730,9 +730,9 @@
                     android:layout_row="1" />
 
             </GridLayout>
-        </android.support.v7.widget.CardView>
+        </androidx.cardview.widget.CardView>
 
-        <android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        <androidx.cardview.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
             style="@style/MyCardViewStyle"
             card_view:cardBackgroundColor="#fff0f0f0">
 
@@ -793,7 +793,7 @@
                     />
 
             </GridLayout>
-        </android.support.v7.widget.CardView>
+        </androidx.cardview.widget.CardView>
 
     </LinearLayout>
-</android.support.v4.widget.NestedScrollView>
+</androidx.core.widget.NestedScrollView>

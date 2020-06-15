@@ -28,8 +28,8 @@ import android.app.Activity;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.Bundle;
-import android.preference.PreferenceManager;
-import android.support.v7.widget.SwitchCompat;
+import androidx.preference.PreferenceManager;
+import androidx.appcompat.widget.SwitchCompat;
 import android.text.TextUtils;
 import android.view.View;
 import android.widget.Button;
@@ -49,11 +49,11 @@ public class user_setting extends Activity {
 
         //View View = inflater.inflate(R.layout.user_setting, container, false);
 
-        final EditText Usertext1= findViewById(R.id.editTextE1);
-        final EditText Usertext2= findViewById(R.id.editTextE2);
-        final EditText editfaktor1= findViewById(R.id.editFaktor1);
-        final EditText Steuersatz=findViewById(R.id.editTextSt);
-        final Button ButtonOK= findViewById(R.id.button3);
+        final EditText Usertext1 = findViewById(R.id.editTextE1);
+        final EditText Usertext2 = findViewById(R.id.editTextE2);
+        final EditText editfaktor1 = findViewById(R.id.editFaktor1);
+        final EditText Steuersatz = findViewById(R.id.editTextSt);
+        final Button ButtonOK = findViewById(R.id.button3);
 
         final SwitchCompat switchTabs= findViewById(R.id.switch1);
         final SwitchCompat switchInternet= findViewById(R.id.switch2);

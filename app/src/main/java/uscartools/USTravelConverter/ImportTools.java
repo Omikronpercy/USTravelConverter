@@ -29,7 +29,9 @@ package uscartools.USTravelConverter;
 
 import android.content.Context;
 import android.content.SharedPreferences;
-import android.preference.PreferenceManager;
+
+import androidx.annotation.NonNull;
+import androidx.preference.PreferenceManager;
 
 import org.w3c.dom.Document;
 import org.w3c.dom.NamedNodeMap;

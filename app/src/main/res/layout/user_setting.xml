@@ -23,7 +23,7 @@
   ~
   -->
 
-<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:layout_marginLeft="15dp"
@@ -31,7 +31,7 @@
     android:layout_marginTop="10dp"
     android:fillViewport="true">
 
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout
     android:layout_width="match_parent"
     android:layout_height="match_parent"
 
@@ -139,18 +139,20 @@
         android:layout_height="wrap_content"
 
         android:layout_marginTop="10dp"
-        android:text="Zollsätze %"
+        android:text="@string/zollsatz2"
         android:textSize="18sp" />
 
     <EditText
         android:id="@+id/editTextZo"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-
-        android:text="0/4.5/3.5/10/15"
+        android:editable="false"
+        android:focusable="false"
+        android:clickable="false"
         android:ems="10"
-        android:inputType="text"
-        android:importantForAutofill="no" />
+        android:importantForAutofill="no"
+        android:inputType="none"
+        android:text="0/4.5/3.5/10" />
 
     <TextView
         android:layout_width="match_parent"
@@ -161,7 +163,7 @@
         android:textSize="14sp"
         android:textStyle="bold" />
 
-    <android.support.v7.widget.SwitchCompat
+    <androidx.appcompat.widget.SwitchCompat
         android:id="@+id/switch1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -175,7 +177,7 @@
         android:textSize="18sp"
         android:visibility="gone" />
 
-    <android.support.v7.widget.SwitchCompat
+    <androidx.appcompat.widget.SwitchCompat
         android:id="@+id/switch2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -206,4 +208,4 @@
         android:layout_marginTop="10dp"
         android:text="@string/save_and_close" />
 </LinearLayout>
-    </android.support.v4.widget.NestedScrollView>
+    </androidx.core.widget.NestedScrollView>
