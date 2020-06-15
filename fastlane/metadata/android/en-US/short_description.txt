@@ -1,2 +1,2 @@
-This program converts some imperial units to SI units for travel in the USA.
+This program converts some imperial units to SI units for travel to the USA.
 
