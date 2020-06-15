@@ -1,1 +1,1 @@
-Konvertiert die gängisten US EInheiten in SI um.
+Konvertiert die gängisten US Einheiten in SI um.
