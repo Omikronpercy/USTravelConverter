@@ -78,7 +78,7 @@
     <string name="internet">Internet Zugriff</string>
     <string name="zugriff">Nur einmal pro Tag wird der Dollarkurs eingelesen</string>
     <string name="info_1">Rechnet die gängisten US Einheiten nach SI Einheiten um. Richtigkeit ohne Gewähr.</string>
-    <string name="Autor">Github: Omikronpercy </string>
+    <string name="Autor" translatable="false">Github: Omikronpercy </string>
     <string name="Info_2">Der US Dollarkurs der EZB wird nur einmal pro Tag eingelesen, um Datenvolumen zu minimieren.</string>
     <string name="Info_3">EU Importabgaben werden nach <a href="http://www.zolltarifnummern.de/zollgebuehren.php">www.zolltarifnummern.de/zollgebuehren.php</a> berechnet. 10% Autos, 4.5% für
         Großteile wie Motor, Getriebe, 3.x% Kleinteile. Einfuhrumsatzsteuer (EUSt) beträgt in Deutschland 19%.
