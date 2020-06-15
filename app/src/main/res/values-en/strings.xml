@@ -46,7 +46,6 @@
         3.x% small parts. Import tax is 19% in Germany.
         Images from unsplash.com, pixabay.com: \n Vitaly, Evan Dennis, Jeff Cooper, Jeff Sheldon, Jon Flobrant, Philip Swinburn, Jonathan Petersson
         Patrick Tomasso, Yaoqi Lai, Bhavyesh Acharya, Maria Molinero</string>
-    <string name="Autor">Author: DOCB</string>
     <string name="info_1">Calculates US units to SI units. No warrenty.</string>
     <string name="action_info">About</string>
     <string name="action_settings">Exit</string>
