@@ -23,7 +23,7 @@
   -->
 
 <resources>
-    <string name="app_name">US Unit Converter</string>
+    <string name="app_name">US Travel Converter</string>
     <string name="gesamtbetrag">total amount</string>
     <string name="rechnung">Invoice</string>
     <string name="umfaktor1">factor unit #1</string>
@@ -42,8 +42,8 @@
     <string name="internet">internet access</string>
     <string name="zugriff">The US dollar exchance rate will be transferrd only once a day</string>
     <string name="Info_2">The US dollar exchange rate is read only once a day to minimze data.</string>
-    <string name="Info_3">EU tariffs are calculated according <a href="http://www.zolltarifnummern.de/zollgebuehren.php">www.zolltarifnummern.de/zollgebuehren.php</a>. 10%% cars, 4.5%% for big parts,
-        3.x%% small parts. Import tax is 19% in Germany.
+    <string name="Info_3">EU tariffs are calculated according <a href="http://www.zolltarifnummern.de/zollgebuehren.php">www.zolltarifnummern.de/zollgebuehren.php</a>. 10% cars, 4.5% for big parts,
+        3.x% small parts. Import tax is 19% in Germany.
         Images from unsplash.com, pixabay.com: \n Vitaly, Evan Dennis, Jeff Cooper, Jeff Sheldon, Jon Flobrant, Philip Swinburn, Jonathan Petersson
         Patrick Tomasso, Yaoqi Lai, Bhavyesh Acharya, Maria Molinero</string>
     <string name="Autor">Author: DOCB</string>
