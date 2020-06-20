@@ -30,7 +30,6 @@ package uscartools.USTravelConverter;
 import android.content.Context;
 import android.content.SharedPreferences;
 
-import androidx.annotation.NonNull;
 import androidx.preference.PreferenceManager;
 
 import org.w3c.dom.Document;
