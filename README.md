@@ -44,3 +44,4 @@ Many thanks to the photographers from [unsplash.com](https://www.unsplash.com) a
 Vitaly, Evan Dennis, Jeff Cooper, Jeff Sheldon, Jon Flobrant, Philip Swinburn, Jonathan Petersson,
 Patrick Tomasso, Yaoqi Lai, Bhavyesh Acharya, Maria Molinero
 
+![GitHub Releases (by Release)](https://img.shields.io/github/downloads/Omikronpercy/USTravelConverter/total)
