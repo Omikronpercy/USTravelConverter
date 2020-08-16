@@ -19,7 +19,11 @@ min Android API 15
 
 ### Installing
 
-Install [apk](https://github.com/Omikronpercy/USTravelConverter2/releases) file.
+[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
+     alt="Get it on F-Droid"
+     height="80">](https://f-droid.org/packages/uscartools.USTravelConverter/)
+
+Otherwise, download and install it from [the release section](https://github.com/Omikronpercy/USTravelConverter2/releases):
 
 
 ```
