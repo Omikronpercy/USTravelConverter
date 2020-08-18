@@ -1,3 +1,3 @@
-Rechenet die gebräuchlchsten US Einheiten in SI um. Besonders al Tourist sidn Einheiten wie Foot-inch als Höhenangabe bei Brücken und Körperlänge ungewoht.
-Das Programm legt den Fokus auf einfachen Zugriff auf die Funktionen. Zusätzlich kann man die Zollabgaben beim Import berechnen lassen.
+Rechenet die gebräuchlichsten US Einheiten in SI um. Besonders als Tourist sind Einheiten wie Foot-inch als Höhenangabe bei Brücken und Körperlänge ungewohnt.
+Das Programm legt den Fokus auf einfachen Zugriff auf die Umrechnungen. Zusätzlich kann man die Zollabgaben beim Import berechnen lassen.
 Der aktuelle Dollarkurs wird berücksichtigt.
