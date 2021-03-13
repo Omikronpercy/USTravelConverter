@@ -1,5 +1,9 @@
 # US Travel Converter
 
+[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
+     alt="Get it on F-Droid"
+     height="80">](https://f-droid.org/packages/uscartools.USTravelConverter/)
+
 The most common US units are transformed to SI units and some less common like gas price from $/gal to €/l. If you want to buy some gifts, you can calculate the EU import charges on second page.
 
 If you need to convert a special unit, you can define your own.
@@ -15,20 +19,6 @@ Hint: Try to touch the unit to change it.
 ### Prerequisites
 
 min Android API 15
-
-
-### Installing
-
-[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
-     alt="Get it on F-Droid"
-     height="80">](https://f-droid.org/packages/uscartools.USTravelConverter/)
-
-Otherwise, download and install it from [the release section](https://github.com/Omikronpercy/USTravelConverter2/releases):
-
-
-```
-USTravelConverter.apk
-```
 
 
 
